@@ -12,7 +12,7 @@ If you're interested in following my work or connecting with me, you can find me
 
 Join me on this exciting journey as we explore new ideas and perspectives together.
 
-My blog: john-blog.com
+My blog: http://john-blog.com
 
 Thank you for taking the time to read about my project!
 
